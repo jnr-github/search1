@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.main-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: black;
+  font-size: 28px;
+  font-weight: bold;
+}
+.searchImage {
+  height: 10px;
+  width: 15px;
+}

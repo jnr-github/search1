@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.image {
+  height: 20vh;
+  width: 30vw;
+}
+.head {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+.columItems {
+  display: flex;
+  flex-direction: column;
+}
